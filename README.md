@@ -1,1 +1,1 @@
-# go-crash-course-khmer | Go Crash Course Khmer by HKimhab
+# golang-crash-course-khmer | Golang Crash Course Khmer by HKimhab
