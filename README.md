@@ -22,3 +22,7 @@
 - https://www.w3schools.com/go/go_boolean_data_type.php
 - https://www.w3schools.com/go/go_string_data_type.php
 - https://bit.ly/3MFZlzh
+
+## 11. Basic data type Golang - Integer - Khmer HKimhab
+
+- https://bit.ly/3NI9YCK
